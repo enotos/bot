@@ -3,7 +3,7 @@ certifi==2018.4.16
 chardet==3.0.4
 future==0.16.0
 idna==2.6
-numpy==1.14.2
+numpy==1.22.0
 pyTelegramBotAPI==3.6.2
 python-telegram-bot==10.0.2
 requests==2.18.4
